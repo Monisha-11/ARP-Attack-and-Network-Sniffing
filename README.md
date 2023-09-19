@@ -11,7 +11,7 @@ To explore network sniffing and ARP Attacks
 
 2) Investigate on the various categories of tools as follows:
 
-3) Open terminal and try execute some kali linux commands
+3) Open terminal and try execute some kali linux commands.
 
 
 ## METHODS:
